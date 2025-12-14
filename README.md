@@ -22,3 +22,25 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Inspiration: [Processing Flocking implementation](https://processing.org/examples/flocking.html)
+
+## References
+
+Nice presentation
+http://www.cs.cmu.edu/afs/cs/academic/class/15462-s10/www/lec-slides/Lecture24_flocking.pdf
+
+Additional rules
+http://www.kfish.org/boids/pseudocode.html
+
+O'Reilly Flocking (loong)
+https://www.safaribooksonline.com/library/view/ai-for-game/0596005555/ch04.html
+
+Processing implementation
+https://p5js.org/examples/simulate-flocking.html
+
+Goals-seeking and obstacle avoidance (steering?)
+
+Cool implementaiton videos
+http://softology.com.au/tutorials/boids/boids.htm
+
+Original paper
+http://www.cs.toronto.edu/~dt/siggraph97-course/cwr87/
