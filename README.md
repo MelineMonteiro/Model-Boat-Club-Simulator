@@ -14,6 +14,7 @@ J'ai créé 2~3 [Prefab](https://docs.unity3d.com/6000.2/Documentation/Manual/Pr
 **:information_source: Pourrais-tu `commit` à chaque fois que tu a complété une étape et tu m'enverra le lien de ton repo github une fois fini ?**  
 **:information_source: Si tu peux mettre un commentaire à chaque commit et à chaque "ligne/bloc" de code histoire que je ne sois pas perdu?**  
 **:information_source: Si tu peux modifier seulement les lignes de code que tu estime nécessaire ? Pas de gros copier/coller venant d'internet s'il te plait :expressionless: sauf si tu sais ce que tu fais (et que tu me l'explique en commentaire).**  
+**:information_source: N'hésite pas à supprimer certaines parties du projet, comme des les prefabs que j'ai créé ou certains liens entre mes scripts si tu pense qu'ils sont incorrect :smile:**
   
 ## 1. Pouvoir éditer pérennement le comportement des bateaux en mode Play  
   
@@ -26,8 +27,8 @@ J'ai déplacé les variables dans le `BoatManager.cs` : ça résout une partie d
 Je crois qu'on peut utiliser les [ScriptableObject](https://docs.unity3d.com/6000.2/Documentation/Manual/class-ScriptableObject.html) pour ça ?  
   
 Peut importe la solution que tu utilise tant que je peux :  
-- - [ ] Faire mes modifications sur leur comportement en mode Play et que ça reste sauvegardé **automatiquement**, que je quitte le mode Play ou non.  
-- - [ ] Que toutes les instances de bateau de la même famille (e.g. "Boat Tow A" et Boat Tow B" font parties de la famille "Tow") aient **le même comportement**. Si je change une valeur du comportement toutes les instances qui référencent ce comportement seront affectées.   
+- [ ] Modifier le comportement d'un bateau en le sélectionnant directement dans la scène ; donc retirer entièrement les variables de `BoatManager.cs` et les "remettre" dans le script `BoatAutoPilot.cs` (ou la solution que tu trouvera).
+- [ ] Faire mes modifications sur leur comportement en mode Play et que ça reste sauvegardé **automatiquement**, que je quitte le mode Play ou non.  
   
 **:information_source: Une fois que c'est fait : `commit`, `push` et passe à la suite :smile:**  
   
@@ -82,7 +83,7 @@ Si je décide que "Boat Speed A" et "Boat Speed B" ont le même comportement et 
   
 **Est-ce que tu pourrais configurer les Prefabs d'une même famille pour que le comportement d'une variante visuel soit définie en amont de cette dernière ?**  
   
-  - [ ] Que toutes les variantes visuelles d'une même famille aient le même comportement.  
+  - [ ] Que toutes les variantes visuelles d'une même famille aient le même comportement (e.g. "Boat Tow A" et Boat Tow B" font parties de la famille "Tow" et doivent avoir le même comportement).  
   
 **:information_source: Une fois que c'est fait : `commit`, `push` et passe à la suite :smile:**  
   
