@@ -27,7 +27,6 @@ J'ai déplacé les variables dans le `BoatManager.cs` : ça résout une partie d
 Je crois qu'on peut utiliser les [ScriptableObject](https://docs.unity3d.com/6000.2/Documentation/Manual/class-ScriptableObject.html) pour ça ?  
   
 Peut importe la solution que tu utilise tant que je peux :  
-- [ ] Modifier le comportement d'un bateau en le sélectionnant directement dans la scène ; donc retirer entièrement les variables de `BoatManager.cs` et les "remettre" dans le script `BoatAutoPilot.cs` (ou la solution que tu trouvera).
 - [ ] Faire mes modifications sur leur comportement en mode Play et que ça reste sauvegardé **automatiquement**, que je quitte le mode Play ou non.  
   
 **:information_source: Une fois que c'est fait : `commit`, `push` et passe à la suite :smile:**  
@@ -127,4 +126,5 @@ C.a.d que plutôt que d'avoir une simple collection de nos bateaux (et qu'ils ai
   J'utilise [ScreenToGif](https://www.screentogif.com/) mais tu peux utiliser le logiciel que tu souhaite.  
 
 **:information_source: Une fois que c'est fait : `commit`, `push` et passe à la suite :smile:**  
+
 
