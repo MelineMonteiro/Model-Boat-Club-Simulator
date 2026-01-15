@@ -1,5 +1,5 @@
 ﻿  
-# :boat: Model Boat Club Simulator :video_game:  
+# :boat: [Model Boat Club Simulator](https://github.com/romainPechot/Model-Boat-Club-Simulator) :video_game:  
 ## Le meilleur simulateur de bateaux télécommandés qu'on peut imaginer ! Enfin presque...  
   
 Voici une idée de projet que j'ai commencé ce weekend.  
@@ -126,5 +126,6 @@ C.a.d que plutôt que d'avoir une simple collection de nos bateaux (et qu'ils ai
   J'utilise [ScreenToGif](https://www.screentogif.com/) mais tu peux utiliser le logiciel que tu souhaite.  
 
 **:information_source: Une fois que c'est fait : `commit`, `push` et passe à la suite :smile:**  
+
 
 
