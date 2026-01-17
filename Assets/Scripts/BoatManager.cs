@@ -33,6 +33,7 @@ public class BoatManager : MonoBehaviour
 
     [SerializeField]
     private GameObject boatHouseA = null;
+    
 
     [SerializeField]
     private GameObject boatHouseB = null;
@@ -40,10 +41,10 @@ public class BoatManager : MonoBehaviour
     [SerializeField]
     private GameObject boatHouseC = null;
 
-    
 
-  
 
+
+    [SerializeField]
     private List<GameObject> boatsInstances = new List<GameObject>();
 
     private void Awake()
@@ -166,8 +167,5 @@ public class BoatManager : MonoBehaviour
     }
 
 
-    private void ChageScale()
-    {
-
-    }
+   
 }

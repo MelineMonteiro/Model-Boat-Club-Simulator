@@ -248,6 +248,17 @@ MonoBehaviour:
   boatHouseA: {fileID: 1138331384927246, guid: f4fd60554feb830408409b09d8c5f2d0, type: 3}
   boatHouseB: {fileID: 1138331384927246, guid: 9d1d0b91403a8814ab6853947579bad9, type: 3}
   boatHouseC: {fileID: 1138331384927246, guid: be18bd8f4343bb14daad0d183019b6aa, type: 3}
+  boatsInstances:
+  - {fileID: 1138331384927246, guid: f4fd60554feb830408409b09d8c5f2d0, type: 3}
+  - {fileID: 1138331384927246, guid: 9d1d0b91403a8814ab6853947579bad9, type: 3}
+  - {fileID: 1138331384927246, guid: be18bd8f4343bb14daad0d183019b6aa, type: 3}
+  - {fileID: 2529193527738409091, guid: e461a3213fc0aff4f81f4fd107e8e6f9, type: 3}
+  - {fileID: 8750290042894321092, guid: 5ec1d9179e7e5624b9ea3d33ac830556, type: 3}
+  - {fileID: 7192400076839438961, guid: 38aa936380658f441a82c7b2d065c84b, type: 3}
+  - {fileID: 1148991095018402466, guid: 383e6544b66f850428b528f74be5f63c, type: 3}
+  - {fileID: 1512765225327324663, guid: e61217bfad0701d46b9b091a683a3b6c, type: 3}
+  - {fileID: 4676179627314363564, guid: 0cd0cf2634c190c42a079316b9ea9554, type: 3}
+  - {fileID: 2042581659800733811, guid: 394c2cdab30e2af42b2c1591e6e909e2, type: 3}
 --- !u!4 &576343055
 Transform:
   m_ObjectHideFlags: 0
