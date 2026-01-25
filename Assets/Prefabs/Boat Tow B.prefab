@@ -1,6 +1,100 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &1949041200234913621
+--- !u!1001 &3553687259744229818
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1918100445058093496}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+        type: 3}
+      propertyPath: m_Name
+      value: boat-tow-b
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 12ea23c628d1fec4d825fcb94dfbb82f, type: 3}
+--- !u!4 &3952896865424358993 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
+    type: 3}
+  m_PrefabInstance: {fileID: 3553687259744229818}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4036689502695575987
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -8,74 +102,73 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1148991095018402466, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2490499234942181897, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_Name
       value: Boat Tow B
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1151033702251745440, guid: 383e6544b66f850428b528f74be5f63c,
+    - target: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1482531920777507862, guid: 383e6544b66f850428b528f74be5f63c,
-        type: 3}
-      propertyPath: m_Name
-      value: boat-tow-b
-      objectReference: {fileID: 0}
-    - target: {fileID: 2915810092142141705, guid: 383e6544b66f850428b528f74be5f63c,
-        type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -443452321695023059, guid: 12ea23c628d1fec4d825fcb94dfbb82f,
-        type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3952896865424358993}
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 383e6544b66f850428b528f74be5f63c, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 2e8dc117b6327c64d83df19db86f8725, type: 3}
+--- !u!4 &1918100445058093496 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2493663260834988043, guid: 2e8dc117b6327c64d83df19db86f8725,
+    type: 3}
+  m_PrefabInstance: {fileID: 4036689502695575987}
+  m_PrefabAsset: {fileID: 0}
